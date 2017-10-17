@@ -1,0 +1,25 @@
+{
+  "name": "zlog",
+  "version": "0.0.1",
+  "description": "This is my logger. There are many like it, but this one is mine.",
+  "main": "dist/logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbentley/zlog.js.git"
+  },
+  "author": "zbentley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zbentley/zlog.js/issues"
+  },
+  "homepage": "https://github.com/zbentley/zlog.js#readme",
+  "dependencies": {
+    "eyes": "^0.1.8",
+    "lodash": "^4.17.4",
+    "pino": "^4.7.2",
+    "pkginfo": "^0.4.1"
+  }
+}
